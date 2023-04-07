@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'Apercu';
+	font-display: swap;
+	src: url('Apercu.otf');
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: 'Apercu';
+	font-display: swap;
+	src: url('Apercu-Light.otf');
+	font-weight: 100;
+}
+
+@font-face {
+	font-family: 'Apercu';
+	font-display: swap;
+	src: url('Apercu-Medium.otf');
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: 'Apercu';
+	font-display: swap;
+	src: url('Apercu-Bold.otf');
+	font-weight: 900;
+}
